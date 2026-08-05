@@ -1,2 +1,1 @@
 1.8.2
-"disk3" ejected.
